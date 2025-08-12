@@ -1,6 +1,9 @@
 @import "tailwindcss";
 
 @theme {
+
+    --font-segoeUi: "Segoe UI""Helvetica Neue""Fira Sans""Oxygen Sans""Droid Sans""Apple Color Emoji""Segoe UI Emoji""Segoe UI Emoji""Segoe UI Symbol","Lucida Grande"
+
   --color-primary-white: #fff;
   --color-primary-offWhite: #f4f2ee;
   --color-primary-blue: #0a66c2;
